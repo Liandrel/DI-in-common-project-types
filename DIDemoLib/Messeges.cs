@@ -10,7 +10,7 @@ namespace DIDemoLib
     {
         public string SayHello() => "Hello Viewer";
 
-        public string GoodBye() => "GoodBye";
+        public string SayGoodBye() => "GoodBye";
     }
 
 }

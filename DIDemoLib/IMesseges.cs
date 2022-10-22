@@ -2,7 +2,7 @@
 {
     public interface IMesseges
     {
-        string GoodBye();
+        string SayGoodBye();
         string SayHello();
     }
 }
