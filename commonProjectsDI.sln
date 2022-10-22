@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsDI", "WinFormsDI\Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppDI", "WpfAppDI\WpfAppDI.csproj", "{55931B02-B8F4-4B55-A139-B501BB721155}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDI", "ApiDI\ApiDI.csproj", "{9443016E-FBC8-4082-BA98-75008A5384D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{55931B02-B8F4-4B55-A139-B501BB721155}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55931B02-B8F4-4B55-A139-B501BB721155}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55931B02-B8F4-4B55-A139-B501BB721155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9443016E-FBC8-4082-BA98-75008A5384D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9443016E-FBC8-4082-BA98-75008A5384D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9443016E-FBC8-4082-BA98-75008A5384D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9443016E-FBC8-4082-BA98-75008A5384D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
