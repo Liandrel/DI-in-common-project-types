@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIDemoLib", "DIDemoLib\DIDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerServiceDI", "WorkerServiceDI\WorkerServiceDI.csproj", "{92BAC5AF-36E7-4DCF-885A-518D02A5734D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsDI", "WinFormsDI\WinFormsDI.csproj", "{846510C8-61D5-4E64-8513-10086D624ED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{92BAC5AF-36E7-4DCF-885A-518D02A5734D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92BAC5AF-36E7-4DCF-885A-518D02A5734D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92BAC5AF-36E7-4DCF-885A-518D02A5734D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846510C8-61D5-4E64-8513-10086D624ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846510C8-61D5-4E64-8513-10086D624ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846510C8-61D5-4E64-8513-10086D624ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846510C8-61D5-4E64-8513-10086D624ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
